@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Rafael Reales 
 
-Soy un entusiasta de la tecnología apasionado por el Desarrollo web full stark. Actualmente, estoy aprendiendo todos los servicios de AWS y siempre estoy buscando oportunidades de colaborar en emocionantes proyectos.
+Soy un entusiasta de la tecnología apasionado por el Desarrollo web full stack. Actualmente, estoy aprendiendo todos los servicios de AWS y siempre estoy buscando oportunidades de colaborar en emocionantes proyectos.
 
 ## 🔧 Habilidades y Tecnologías
 
