@@ -1,6 +1,8 @@
 # ¡Hola! 👋 Soy Rafael Reales 
 
-Soy un entusiasta de la tecnología apasionado por el Desarrollo web full stack. Actualmente, estoy aprendiendo todos los servicios de AWS y siempre estoy buscando oportunidades de colaborar en emocionantes proyectos.
+Soy un desarrollador web Full Stack altamente capacitado y apasionado con amplios conocimientos en las tecnologías clave de desarrollo web, incluyendo HTML, CSS, JavaScript, React, Bootstrap, Chakra UI y Node.js. Además, poseo habilidades sólidas en trabajo en equipo, resolución de problemas y manejo del estrés. Estoy siempre dispuesto a aprender y enseñar, lo cual me permite mantenerme actualizado en las últimas tendencias y tecnologías del sector.
+
+He adquirido experiencia a través de diversos proyectos personales, como el desarrollo de una lista de tareas y un mini portafolio. Estos proyectos me han permitido aplicar mis habilidades técnicas, trabajar de manera autónoma y desarrollar un enfoque creativo para resolver problemas complejos. A través de estos proyectos, he demostrado mi capacidad para desarrollar aplicaciones web intuitivas y atractivas, brindando una experiencia de usuario excepcional.
 
 ## 🔧 Habilidades y Tecnologías
 
